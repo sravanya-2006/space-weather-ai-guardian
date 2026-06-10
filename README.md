@@ -311,10 +311,10 @@ Implemented Features:
 
 Evaluation Metrics:
 
-* Accuracy: 100%
-* Precision: 1.00
-* Recall: 1.00
-* F1 Score: 1.00
+* Accuracy
+* Precision
+* Recall
+* F1 Score
 
 Current Dashboard Capabilities:
 
